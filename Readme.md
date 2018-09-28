@@ -15,7 +15,7 @@ The test has been executed with different values of N (from 8 to 12).
 
 Results are expressed in seconds
 
-| N  | C++ (gcc)  | c++ (clang) | Ruby        | Python       |
+| N  | C++ (gcc)  | C++ (clang) | Ruby        | Python       |
 | --:|:---------- |:----------- | -----------:| ------------:|
 |  8 | 0.00294144 | 0.00283669  |  0.01851539 |   0.02894401 |
 |  9 | 0.0119971  | 0.0110151   |  0.08097703 |   0.12943959 |
