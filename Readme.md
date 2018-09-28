@@ -1,1 +1,1 @@
-# Performance comparision in different programming languages
+# Performance comparison in different programming languages
